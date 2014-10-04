@@ -160,7 +160,7 @@ h1 {
 }
 #templatemo_about .about_icon .imgwap {
     text-align: center;
-    border-radius: 75px;
+    border-radius: 0px;/**75**/
 }
 #templatemo_about .about_icon p {
     text-align: center;
@@ -473,7 +473,10 @@ h1 {
 
 
 
-.fa-rocket:before {background: repeat-x url("../images/Slp1.png") 0 -94px ;}
+.spl1 {background: repeat-x url("../images/Slp1.png") 0 -94px ;}
+.spl2 {background: repeat-x url("../images/Slp2.png") 0 -94px ;}
+.spl3 {background: repeat-x url("../images/Slp3.png") 0 -94px ;}
+.spl4 {background: repeat-x url("../images/Slp4.png") 0 -94px ;}
 
 
 
