@@ -64,9 +64,9 @@ h1 {
     float: left; 
 }
 #templatemo_banner_menu #logo_text {
-    font: normal normal normal 36px/1em 'Century Gothic', sans-serif;
+    font: normal normal normal 30px/1em 'Century Gothic', sans-serif;
     margin-top: 30px;
-    padding-left: 60px;
+    padding-left: 0px;/**60px**/
     text-align: left;
     color: #e35354;
 }
@@ -447,7 +447,7 @@ h1 {
         background-position: 100px 5px;
     }
     #templatemo_banner_menu #logo_text {
-        font: normal normal normal 30px/1em 'Century Gothic', sans-serif;
+        font: normal normal normal 20px/1em 'Century Gothic', sans-serif;
     }
     #templatemo_timeline .container-fluid {
         background: url("../images/time_line_bg.jpg") repeat-y 28px 0;
@@ -456,3 +456,28 @@ h1 {
 /*  Large devices (large desktops, 1200px and up)  */
 @media (min-width: 1200px ) {
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fa-rocket:before {background: repeat-x url("../images/Slp1.png") 0 -94px ;}
+
+
+
+
+
+
+
